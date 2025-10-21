@@ -71,6 +71,6 @@ YourRepoName/
 
 ---
 
-📌 **Deadline:** **[25th October]**
+📌 **Deadline:** **[31st October]**
 
 
