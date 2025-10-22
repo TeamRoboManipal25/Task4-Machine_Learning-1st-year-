@@ -27,7 +27,7 @@ You are required to complete two sub-tasks — **Linear Regression** and **Logis
 
 Predict **Average Student Score** using Linear Regression.
 
-You are given a dataset *student_perfomance.csv** that contains information about students’ demographics, study habits, and exam
+You are given a dataset **student_perfomance.csv** that contains information about students’ demographics, study habits, and exam
 results.
 
 Your goal is to build a Linear Regression model from scratch that predicts the **Average Student Score** based on multiple input features.
