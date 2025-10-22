@@ -25,11 +25,12 @@ You are required to complete two sub-tasks — **Linear Regression** and **Logis
 
 ### 🎯 Objective  
 
-Predict **Housing Prices** using Linear Regression.
+Predict **Average Student Score** using Linear Regression.
 
-You are given a dataset **housing.csv** that contains information about different California housing blocks such as location, population, median income, and housing characteristics.
+You are given a dataset *student_perfomance.csv** that contains information about students’ demographics, study habits, and exam
+results.
 
-Your goal is to build a Linear Regression model from scratch that predicts the median house value based on multiple input features.
+Your goal is to build a Linear Regression model from scratch that predicts the **Average Student Score** based on multiple input features.
 
 ---
 
@@ -37,10 +38,10 @@ Your goal is to build a Linear Regression model from scratch that predicts the m
 
 ### 🎯 Objective  
 
-Predict whether a patient is likely to have Diabetes using Logistic Regression.
+Predict whether a person earns >50k or <=50k using Logistic Regression.
 
-You are given a dataset **diabetes_dataset.csv** containing patient demographic, lifestyle, and health-related information.
-Your task is to build a Logistic Regression model from scratch to predict the likelihood of diabetes
+You are given a dataset **adult.csv** contains census data including age, education, occupation, and other socioeconomic indicators.
+Your task is to build a Logistic Regression model from scratch to predict whether a person earns >50k or <=50k annually.
 
 
 ## 🛠️ Folder Structure  
