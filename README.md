@@ -10,7 +10,7 @@
 # 📄 Task Description  
 
 👉 One PDF guides will be provided:
-- [First_years_Task Pdf](Task3/Machine_Learning.pdf) → Contains questions regarding Linear and Logistic Regression.
+- [First_years_Task Pdf](Task4/first_years_Machine_Learning.pdf) → Contains questions regarding Linear and Logistic Regression.
 
 For this task, you will practice implementing Machine Learning algorithms from scratch using **NumPy**,
 loading and preprocessing data using **Pandas**, and visualizing results using **Matplotlib**.
